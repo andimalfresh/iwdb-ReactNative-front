@@ -1,10 +1,12 @@
-## Build interactive user interfaces using component-based architecture
+- SnowG/IW React Native Version
 
-In this assessment, you will take web pages and refactor them into a front end framework of your choice. You should pick one front end framework to complete all the practices and drills to build mastery with it.
+- React-native, PostgreSQL, Express, CSS, HTML
 
-## Standard
+- I dunno how do you deploy a react-native app from downloading it.. maybe clone it and navigate to the
+  apps directory and use the consold command "expo start"?
 
-```
-|- Demonstrate proficiency with a front-end framework
-|-- Build interactive user interfaces using component-based architecture
-```
+- https://github.com/andimalfresh/iwdb-ReactNative-front
+
+- "Front-end not currently deployed globally
+
+- https://iwspiritsdb.herokuapp.com/
